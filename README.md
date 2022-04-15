@@ -2,6 +2,7 @@
 <h3 align="center">Computer science student at the University of Trento (Italy).</h3>
 <div align="center"><a href="mailto: lorenzi.alessandro19@gmail.com"><b>Contact me 📬</b></a></div>
 <br>
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <table>
    <tr>
@@ -64,3 +65,4 @@
 </table>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalleeee&label=Profile%20views&color=0e75b6&style=flat" alt="aalleeee" /> </p>
+-->
